@@ -6,7 +6,7 @@ This application trains the neural net, using the Tensor flow library.
 
 The training data is contained within the application folder, in a file named json2.text
 
-json2.txt is a dictionary of lists, with each Unit in DfT as a key, and each PQ they have answered in the last 2 years in the list contained withdrawing
+json2.txt is a dictionary of lists, with each Unit in DfT as a key, and each PQ they have answered in the last 2 years in the list contained within
 
 Lines 12-88 of neuralnet.py are getting the data into a format tensorflow can use, ie converting each question into a 1 dimensional matrix of 0s and 1s
 
