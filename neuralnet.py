@@ -9,16 +9,18 @@ import string
 import unicodedata
 import sys
 
-#create table (a dictionary) to hold remove_punctuation
-#unicodedata.category for a chactare is like 'punctuation, connector'
+#SORT OUT DATA#
+
+#create table (a dictionary) that holds all punctuation characters for removal
+#unicodedata.category for a character is like 'punctuation, connector'
 tbl = dict.fromkeys(i for i in range(sys.maxunicode) if unicodedata.category(chr(i)).startswith('P'))
 
-#punctuation remover (cos keys in table point to nothing it just deletes the punctuation)
+#punctuation remover (cos keys in tbl point to nothing it just deletes the punctuation)
 def remove_punctuation(sentence):
     return sentence.translate(tbl)
 
 
-#initialise LancasterStemmer
+#initialise LancasterStemmer (stems words quite harshly)
 stemmer = LancasterStemmer()
 
 #initialise pointer to data file
@@ -29,14 +31,13 @@ with open('json2.txt', 'r') as json_data:
     data = json.load(json_data)
 
 
-#get categories
-categories = list(data.keys())
-print(categories)
+#get categories from json (ie business unit)
+categories = sorted(list(data.keys()))
 
 #list of words that holds all unique stemmed words
 words = []
 
-#list of tuples of words and categoryname
+#list of tuples of words and units
 docs = []
 
 for each_category in data.keys():
@@ -54,11 +55,10 @@ words = [stemmer.stem(w.lower()) for w in words]
 #remove duplicates (the set does this)
 words = sorted(list(set(words)))
 
-#create our training data
+#list to hold training data
 training = []
-output = []
-# create an empty array for our output
-output_empty = [0] * len(categories)
+# create an array of 0s for our output
+output_row = [0] * len(categories)
 
 
 for doc in docs:
@@ -72,7 +72,6 @@ for doc in docs:
     for w in words:
         bow.append(1) if w in token_words else bow.append(0)
 
-    output_row = list(output_empty)
     output_row[categories.index(doc[1])] = 1
 
     # our training set will contain a the bag of words model and the output row that tells which catefory that bow belongs to.
@@ -87,26 +86,34 @@ training = np.array(training)
 train_x = list(training[:,0])
 train_y = list(training[:,1])
 
+#DESIGN MODEL#
+
 #reset underlying graph data
 tf.reset_default_graph()
 #Build neural network
+#input layer - size is the same as the input matrix (ie length of the BoW)
 net = tflearn.input_data(shape=[None,len(train_x[0])])
-#layer?
+#Hidden layer1 of size 8
 net = tflearn.fully_connected(net,8)
-#layer?
+#Hidden layer2 of size 8
 net = tflearn.fully_connected(net,8)
-#output layer
+#output layer - size is dictated by the number of units we're allocating cases to
 net = tflearn.fully_connected(net, len(train_y[0]),activation='softmax')
+#regression layer that does the gradient descent (i think)
 net = tflearn.regression(net)
 
+#RUN MODEL#
 
 #define model and set up tensorboard
 model = tflearn.DNN(net, tensorboard_dir = 'tflearn_logs')
-#start training (grad descent algo)
+#start training
 model.fit(train_x, train_y, n_epoch = 1000, batch_size=10, show_metric = True)
+#save model once training is complete
 model.save('model.tflearn')
 
+#TESTING#
 
+#testing questions
 sent1 = "How much money is spent on cycling"
 sent2 = "How many accidents where there last year"
 sent3 = "cycle city grant is how much?"
@@ -114,6 +121,7 @@ sent4 = "drug driving is illegal"
 sent5 = "penalty points for mobile phone"
 sent6 = "active travel cycling and walking"
 
+#convert testing questions into bag of words numpy array
 def get_tf_record(sentence):
     global words
     sentence_words = nltk.word_tokenize(sentence)
@@ -125,6 +133,7 @@ def get_tf_record(sentence):
                 BoW[i]=1
     return(np.array(BoW))
 
+#print results of testing
 print(categories[np.argmax(model.predict([get_tf_record(sent1)]))])
 print(categories[np.argmax(model.predict([get_tf_record(sent2)]))])
 print(categories[np.argmax(model.predict([get_tf_record(sent3)]))])
