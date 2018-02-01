@@ -33,6 +33,7 @@ with open('json2.txt', 'r') as json_data:
 
 #get categories from json (ie business unit)
 categories = sorted(list(data.keys()))
+print(categories)
 
 #list of words that holds all unique stemmed words
 words = []
@@ -58,7 +59,8 @@ words = sorted(list(set(words)))
 #list to hold training data
 training = []
 # create an array of 0s for our output
-output_row = [0] * len(categories)
+output_empty = [0] * len(categories)
+
 
 
 for doc in docs:
@@ -72,6 +74,7 @@ for doc in docs:
     for w in words:
         bow.append(1) if w in token_words else bow.append(0)
 
+    output_row = list(output_empty)
     output_row[categories.index(doc[1])] = 1
 
     # our training set will contain a the bag of words model and the output row that tells which catefory that bow belongs to.

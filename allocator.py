@@ -41,17 +41,17 @@ words = [stemmer.stem(w.lower()) for w in words]
 #remove duplicates (the set does this)
 words = sorted(list(set(words)))
 
-
-net = tflearn.input_data(shape=[None,5494])
+#net is expecting a shape the size of the bag of words
+net = tflearn.input_data(shape=[None,len(words)])
 #layer?
 net = tflearn.fully_connected(net,8)
 #layer?
 net = tflearn.fully_connected(net,8)
 #output layer
-net = tflearn.fully_connected(net, 113,activation='softmax')
+net = tflearn.fully_connected(net, len(categories),activation='softmax')
 net = tflearn.regression(net)
 
-model = tflearn.DNN(net, tensorboard_dir = 'tflearn_logs/DANWYH')
+model = tflearn.DNN(net, tensorboard_dir = 'tflearn_logs')
 model.load('model.tflearn')
 
 def get_tf_record(sentence):

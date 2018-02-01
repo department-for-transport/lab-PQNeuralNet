@@ -43,6 +43,13 @@
     "To ask Her Majesty's Government what assessment they have made of (1) rates of staff turnover at HS2 Limited, and (2) the impact of staff changes on the efficient running of that company; and what they assess to be the causes of those rates of turnover."
   ],
   "Rail Passenger Services": [
+  " what further devolution is being considered to the Mayor of London; and how his Department is working with the Mayor to tackle rail challenges facing the capital.",
+  " what criteria he used to decide whether or not to extend Transport for London's remit to cover the London suburban rail network; and if he will make a statement.",
+  "To ask Her Majesty's Government, further to the remarks by the Secretary of State for Transport, Mr Chris Grayling, on 6 December (HC Deb, cols 124-130), whether they will publish their analysis of Transport for London’s business case for rail devolution. ",
+  "To ask Her Majesty's Government, further to the remarks by the Secretary of State for Transport on 6 December (HC Deb, cols 124-130), whether they will publish their analysis of Transport for London’s business case for rail devolution.  ",
+  "To ask Her Majesty's Government why they rejected the application by Transport for London to manage inner suburban rail services south of the Thames; and what evidence they have to support that decision. ",
+  " if he will publish his Department's cost-benefit analysis of the Mayor of London's business case for devolution of rail services to Transport for London.",
+  "To ask Her Majesty's Government, further to the Written Answer by Lord Ahmad of Wimbledon on 16 January (HL4450), what were the uncertainties in Transport for London’s business case concerning the operational risks in splitting a franchise and the claimed benefits; how those differed from the risks in the Department for Transport’s own business case for a single franchise; how the risks associated with a split franchise differed from the risks on other lines where there is more than one franchise operator; and what comparative assessment they have made of the benefits to passengers using services provided by London Overground. ",
     " with reference to his Written Statement on 9 December 2015, HCWS369, whether the new franchisees referred to will be required to replace allPacer trains on both the (a) TransPennine Express and (b) Northern franchise; and by what year all Pacer trains will be replaced on both franchises.",
     " with reference to the Written Statement of 9 December 2015 HDVS 369 on rail franchising, when he expects to publish the new franchise agreements for theNorthern and TransPennine Express franchise awards.",
     " what (a) premium and (b) subsidy payments the new Northern franchisee is expected to make or receive in each year of that franchise's duration.",
@@ -1009,9 +1016,6 @@
     " what steps his Department is taking to address safety concerns raised by driving test examiners in risk assessments in respect of the new driving test."
   ],
 
-  "Dangerous Goods": [
-    " what information his Department holds on the number and severity of incidents involving vehicles transporting nuclear material on the strategic road network."
-  ],
   "Active Accessible Travel": [
     " what assessment he has made of the effect of the cycle to work scheme on the number of non-cyclists taking up cycling.",
     " what assessment he has made of the contribution of the cycle to work scheme to meeting the Government's objective to double the number of journeys made by bicycle by 2020.",
@@ -1505,11 +1509,6 @@
     " what assessment his Department has made of the effect of 20 mph zones on road safety for pedestrians.",
     " what steps he is taking to improve enforcement against drink-driving in light of recent report by the Institute of Alcohol Studies Running on empty, drink-driving law enforcement in England published on 8 December 2017."
   ],
-  "Maritime International & Trade": [
-    " whether the UK plans to seek formal co-operation with or third country participatory membership of the European Maritime Safety Agency after the UK has left the EU.",
-    "To ask Her Majesty's Government what assessment they have made of the impact of Brexit on ferry services in the Irish Sea.",
-    " whether he plans to maintain UK membership of the European Maritime Safety Agency after the UK leaves the EU."
-  ],
   "Rail Network Services-London & South East": [
     " pursuant to the Answer of 11 January 2016 to Question 20630, if he will publish the initial findings of the London and South Coast Rail Corridor Study covering the establishment of a Brighton Mainline 2.",
     "To ask Her Majesty's Government, further to the Written Answer by Lord Ahmad of Wimbledon on 21 December 2015 (HL4413), whether passengers are involved in developing schemes for the railway between Salisbury and Exeter to meet their needs and support economic growth; and if so, how. ",
@@ -1585,16 +1584,6 @@
     " what assessment he has made of the potential merits of investing in rail infrastructure on the Great Eastern Main Line to increase capacity for rail service improvements; and if he will make a statement.",
     "To ask Her Majesty's Government why the reopening of the Lewes Uckfield rail line was not included in the list of line reopenings contained in the Department for Transport's document Connecting people: a strategic vision for rail, published on 29 November.",
     " pursuant to the Oral Statement of 29 November 2017, Official Report, Column 339 on Rail Update, if he will provide details of the process to establish business cases to develop proposals to open new railway lines between (a) Marks Tey and Cambridge, (b) Witham and Maldon and (c) Witham and Stansted."
-  ],
-  "Rail Strategy and Freight": [
-    " what estimate his Department has made of the potential costs to the UK freight sector of the UK leaving the EU."
-  ],
-  "Rail South, West and London Market": [
-    " what assessment his Department has made of the causes of signal and power failures on the South West main line between Woking and Eastleigh on 6 December 2016.",
-    "To ask Her Majesty's Government, further to the answer by Lord Ahmad of Wimbledon on 14 March, whether the electrification of the Great Western main line will include improved internal lighting in passenger carriages. ",
-    " what recent assessment he has made of the potential merits of an increase in the number of stopping services on the East Midlands Line to Luton Airport.",
-    " what the estimated cost is of the purchase and running of diesel bi-mode trains on the Midland Mainline.",
-    " what assessment he has made of the potential benefits of reintroducing passenger services between Oxford and Bristol; and if he will make a statement."
   ],
   "Better Regulation and EU Transposition Policy": [
     " pursuant to the Answer of 25 May 2016 to Question 37198, how many of the leaflets entitled Why the Government believes that voting to remain in the European Union is the best decision for the UK have been returned to his Department; and what the postage cost to the Government has been of such returns.",
@@ -1844,12 +1833,6 @@
     " if he will bring forward proposals on compulsory concessionary school travel tickets.",
     " with reference to the announcement of 26 July 2017 on the end of sales of all new conventional petrol and diesel cars and vans by 2040, what his policy is on the use of diesel trains after that date.",
     " what assessment he has made of the cost of linking regulated rail fares to the consumer price index rather than the retail price index."
-  ],
-  "Air Accidents Investigation Branch": [
-    " for what reasons and in what roles Air Accident Investigation Branch officials are attending the scene of the fatal crash of an EC225L Super Puma helicopter on the south west coast of Norway on 29 April 2016; and if he will make a statement.",
-    "To ask Her Majesty's Government, in the light of reports by the pilot that British Airways Flight BA286 from San Francisco to London was diverted to Vancouver because of \"toxic gas-type fumes\" in the cabin, whether the Air Accident Investigations Branch intends to investigate this incident; and if not, why not. ",
-    " what analysis of the effectiveness of additional gearbox condition monitoring on the AS332 L2 and the EC225 was undertaken by (a) his Department and (b) regulatory authorities after the accident at Peterhead on 1 April 2009.",
-    " what monitoring his Department has undertaken of implementation of the Air Accident Investigation Branch's safety recommendations made as a result of its report on the accident at Peterhead on 1 April 2009."
   ],
   "Rail Major Projects and Growth": [
     " if he will make an assessment of the potential merits of implementing the recommendations of Surrey County Council's Surrey Rail Strategy: Crossrail 2 AssessmentFinal Report, relating to the extension of Crossrail 2 to Woking.",
@@ -2376,27 +2359,6 @@
     " what steps his Department is taking to improve transport links between inner cities and suburban towns.",
     " how many discussions he has had with the Mayor of the Liverpool City Region on the levels at which Mersey Tunnel Tolls are set; and what the outcome of those discussions has been.",
     " what estimate he has made of the per capita spending from the public purse on transport projects in Coventry in each of the last three years."
-  ],
-  "Rail Passenger Services Directorate": [
-    " what further devolution is being considered to the Mayor of London; and how his Department is working with the Mayor to tackle rail challenges facing the capital.",
-    " what criteria he used to decide whether or not to extend Transport for London's remit to cover the London suburban rail network; and if he will make a statement.",
-    "To ask Her Majesty's Government, further to the remarks by the Secretary of State for Transport, Mr Chris Grayling, on 6 December (HC Deb, cols 124-130), whether they will publish their analysis of Transport for London’s business case for rail devolution. ",
-    "To ask Her Majesty's Government, further to the remarks by the Secretary of State for Transport on 6 December (HC Deb, cols 124-130), whether they will publish their analysis of Transport for London’s business case for rail devolution.  ",
-    "To ask Her Majesty's Government why they rejected the application by Transport for London to manage inner suburban rail services south of the Thames; and what evidence they have to support that decision. ",
-    " if he will publish his Department's cost-benefit analysis of the Mayor of London's business case for devolution of rail services to Transport for London.",
-    "To ask Her Majesty's Government, further to the Written Answer by Lord Ahmad of Wimbledon on 16 January (HL4450), what were the uncertainties in Transport for London’s business case concerning the operational risks in splitting a franchise and the claimed benefits; how those differed from the risks in the Department for Transport’s own business case for a single franchise; how the risks associated with a split franchise differed from the risks on other lines where there is more than one franchise operator; and what comparative assessment they have made of the benefits to passengers using services provided by London Overground. "
-  ],
-  "Maritime Security & Resilience": [
-    " what his Department's (a) budget and (b) spend for maritime surveillance was in each of the last five years; and what the (i) names and (ii) lengths of contract are of companies engaged in UK maritime security.",
-    " which Government policies on ensuring the (a) security of UK ports and (b) identification and checking of containers for contraband, trafficked persons or other illegal activity are the responsibility of his Department; and which such policies which are the responsibility of another department his Department has a secondary role in.",
-    "To ask Her Majesty's Government whether they consider merchant shipping part of the UK’s critical national infrastructure; and what advice they give to UK shipping companies about cyber security. ",
-    "To ask Her Majesty's Government what plans they have to reduce queuing by motor vehicles for Dover ferries in summer peak periods. "
-  ],
-  "Rail North and Wales Market": [
-    " with reference to the oral contribution of 11 May 2016, Official Report, column 621, how much of the £1.4 million referred to has been spent to date; and if he will provide a list of what that funding has been allocated to."
-  ],
-  "International and Regulatory Reform": [
-    " which EU directives relating to his Department's responsibilities are awaiting transposition into UK law."
   ],
   "Regional Strategies London and South": [
     " what plans are in place to provide more step-free access at London Underground stations.",
@@ -3246,25 +3208,6 @@
     " whether he will introduce regulations in response to the ruling by the European Court of Justice on 20 December 2017 that Uber is a transport company and not a digital service. ",
     " with reference to sections 19 and 22 of the Transport Act 1985, what assessment his Department has made of the effect of his Department's proposed changes to section 19 and 22 permits on community groups and schools."
   ],
-  "Private Offices": [
-    " how many times he has attended public meetings of the Transport Committee since his appointment.",
-    " how many Sure Start centres have closed in London in each of the last six years; and in which boroughs such centres were located.",
-    " what his policy is on co-location of GP surgeries within hospital accident and emergency units.",
-    "To ask Her Majesty's Government what is their most up-to-date figure for the annual amount paid in respect of motorised vehicles in (1) Vehicle Excise Duty, (2) fuel taxes, (3) VAT, and (4) other government-imposed charges.  ",
-    "To ask Her Majesty's Government what is their response to the reports by Save the Children, Untapped Potential published in October 2016, and Early Development and Children’s Later Educational Outcomes published in February 2016, concerning the impact of having qualified Early Years teachers in nurseries on children’s early development. ",
-    " pursuant to the Answer of 30 March 2017 to Question 69312, on what dates Ministers of his Department have met representatives from Network Rail to discuss the delivery of rail electrification between Manchester Victoria and Stalybridge stations.         ",
-    " when the Planning Inspectorate plans to issue a start date for the appeals lodged by residents of Tall Trees Park, Matchams Lane, Christchurch in January 2017 against the Enforcement Notice of Christchurch Borough Council of 30 November 2016; and what the reasons are for the time taken to issue that start date.",
-    " what progress has been made on discussions with the US Administration on allowing the pre-clearance in the UK of passengers for immigration purposes.",
-    " (a) how many times and (b) when the prescription charge exemption criteria have been reviewed in the last 30 years.",
-    " what the average waiting time is for patients referred from primary care to NHS physiotherapy services (a) in England and (b) broken down by clinical commissioning group. ",
-    "To ask the Secretary of State for the Home Department, how many people born on 3 May 2000 or earlier are in possession of a firearms licence registered in (a) Woking, (b) Gosport, (c) Bromley or (d) Watford local authority who are aged (i) under 24, (ii) 25 to 49, (iii) 50 to 64 and (iv) 65 or older."
-  ],
-  "Transport Security Strategy": [
-    " what recent assessment his Department has made of the vulnerability to flooding of (a) rail and (b) road networks; and what steps his Department is taking to protect such infrastructure from the risk of floods. [R]",
-    " which sea ports use (a) Windows XP and (b) earlier versions of Windows for any of their operating systems.",
-    " if he will list the airports which use (a) Windows XP and (b) earlier versions of Windows on any aspect of their air traffic control systems.",
-    " what steps he is taking to maintain London's position as an international centre for maritime dispute resolution after the UK leaves the EU."
-  ],
   "International Vehicle Standards": [
     " what information he holds on how many Volkswagen vehicles have been re-tested for emissions since September 2015.",
     " whether he has made an assessment of the potential safety implications of the mandatory introduction of dashboard cameras in (a) cars, (b) vans and (c) heavy goods vehicles.",
@@ -3392,9 +3335,6 @@
     " if his Department will grant UK vehicle manufacturers a 12-month end-of-series derogation provision for wheelchair-accessible vehicles from new European Commission regulations requiring the introduction of the WLTP drive-cycle to new vehicles after 1 September 2018.",
     " if his Department will take steps to reduce the risk currently posed to other drivers of cars using full beam headlights."
   ],
-  "Rail Corporate Services and Portfolio Office": [
-    " what meetings he has had with Network Rail in the last 12 months; and if he will make a statement."
-  ],
   "Maritime Infrastructure, People & Services": [
     " how many people have been (a) killed and (b) injured working in ports in each of the last five years.",
     " what assessment he has made of the recommendations for increasing the training and employment of UK seafarers in the Maritime Futures report by Professor Helen Sampson of Cardiff University, published in January 2015.",
@@ -3471,17 +3411,6 @@
     " what recent estimate he has made of the (a) minimum and (b) maximum cost to industry of legislation prohibiting nationality-based pay discrimination in the UK shipping industry.",
     " who in the Government will be responsible for considering the recommendations made by the Legal Working Group on Seafarers and the National Minimum Wage."
   ],
-  "Infrastructure Skills": [
-    "If he will increase the number of apprenticeships available in major construction projects managed by his Department."
-  ],
-  "Business Partner MPL": [
-    " with reference to page 7 of Directly Operated Railways Annual Report and Accounts for 2014-15, for which 10 franchises Directly Operated Railways prepared contingency plans for a potential transfer; and when each such contingency plan was completed.",
-    " what annual fee his Department will pay to (a) Ernst and Young in the UK, (b) Arup and (c) Interfleet for their advice to him on fulfilling his duties under Section 30 of the Railways Act 1993; and for what period those companies are contracted to provide him such advice.",
-    " pursuant to the Answer of 28 January 2016 to Question 23836, on railways: franchises, on which franchises the partnership referred to in that Answer hasprovided advice to him in relation to his duties under Section 30 of the Railways Act 1993; and whether his Department has carried out mobilisation work on any franchises under Section 30 since the contract referred to in that Answer was signed.",
-    " with reference to the Answer of 12 May to Question 36842, on railways: franchises, whether the partnership referred to in that Answer has provided his Department with advice on mobilisation plans for franchises other than the Cross Country franchise since 1 November 2015.",
-    " whether his Department plans to tender a public contract to perform the function of operator of last resort for (a) long distance and (b) regional passenger rail franchises.",
-    "To ask Her Majesty's Government whether the company listed as DfT OLR Holdings Ltd is a formal part of the Department of Transport and, if so, what is the role of that company and what is the role of the civil servants listed as its directors."
-  ],
   "Communications Strategy and External Affairs": [
     " how many press and public relations staff are employed by his Department; how many of those employees are paid more than (a) £50,000 and (b) £100,000; and what the total expenditure was on press and public relations by his Department in the most recent year for which figures are available.",
     " how many (a) publications, (b) consultation documents and (c) circulars his Department has issued since August 2012; and what the title was of each such publication, consultation document or circular.",
@@ -3494,12 +3423,6 @@
     " how many civil servants in the Government Communications Service have been assigned to work on issues relating to High Speed 2.",
     " which (a) parliamentary constituencies he visited and (b) hon. Members he met with in their constituencies during the 2017 summer recess; what the dates were of those visits; and which proposed or current transport schemes he visited in that period.",
     " pursuant to the Answer of 13 September 2017 to Question 8716, on Government Communications Service: staff, what the payscales are of the two members of staff who work solely on HS2; at what the payscales are for the two vacancies were advertised; and what the payscales are for the two members of staff who work part-time on HS2 communications."
-  ],
-  "Science and Research": [
-    " which reports commissioned by his Department from external bodies between 1 January 2015 and 31 August 2016 have not yet been published; when each report was commissioned for research; what the nature of the research commissioned was; from which external body or individual person the research was commissioned; what the value was of each such piece of research commissioned; on what date each report was received by his Department; for what reasons the research has not yet been published; and when he plans to publish each report.",
-    " how many full-time equivalent civil servants employed by his Department work in support of research projects funded by his Department; and if he will make a statement.",
-    " with reference to the oral contribution by the Chancellor of the Exchequer to the Treasury Committee on 12 December 2016, in response to Q311, who in his Department is responsible for assessing whether grant applications for Horizon 2020 funding are (a) value for money and (b) in line with Government objectives.",
-    " how many meetings (a) he and (b) Ministers of his Department have had with the Chief Scientific Adviser in his Department in the last three months."
   ],
   "Airport Capacity Delivery": [
     " with reference to paragraph 8.18 of the Airports Commission Final Report, July 2015, what the estimated cost is of the tunnelling work required for the M25; and whether that cost would be incurred by the public purse or Heathrow Airport Limited.",
@@ -3615,14 +3538,6 @@
     " what childcare facilities his Department makes available for its staff; how much his Department spent (a) overall and (b) per child on those facilities in the last 12 months; and how many of his Department's staff use those facilities.",
     " what steps his Department is taking to improve the (a) physical and (b) mental wellbeing of staff employed in his Department."
   ],
-  "DfTc HR Team": [
-    " what representations he has received from the road haulage sector and hauliers on the Transport Infrastructure Skills Strategy.",
-    "What steps his Department has had with the department for Business, Innovation and skills on supporting skills development to help deliver the Government's transport infrastructure programmes.",
-    " when he plans to publish his Department's senior officials' business expenses and hospitality data for 2015.",
-    " if he will publish a list of all secondees to his Department from (a) PwC, (b) Deloitte, (c) Ernst and Young, (d) KPMG and (e) other consulting firms in the last three financial years; and what the role was of each of those secondees.",
-    " what the (a) ethnicity, (b) gender, (c) disability status, (d) educational background and (e) socio-economic status is of the three most senior officials of his Department.",
-    "To ask Her Majesty's Government when they expect to appoint a successor to David Prout as Director General of the HS2 Group; and what the selection process will be. "
-  ],
   "Strategic Finance and Planning": [
     " what progress Network Rail has made on meeting the 19.4 per cent efficiency target set by the Office of Rail and Road for the investment period 2014 to 2019.",
     " whether the new Network Rail Property company will have responsibility for disposing of any part of Network Rail's operational estate.",
@@ -3726,12 +3641,6 @@
     "To ask Her Majesty's Government whether there has been a recent review into regulations governing ship registration with a view to increasing the number of ships on the UK shipping register; and if so, what was the outcome. ",
     " pursuant to the Answer of 9 January 2017 to Question 58094, when he plans to publish the (a) review of the Support for Maritime Training scheme and(b) analysis of commercial opportunities within the Maritime and Coastguard Agency that was commissioned by his Department on the recommendations of the Maritime Growth Study.",
     " what progress is being made on his Department's review of the Maritime Growth Study."
-  ],
-  "DfT Legal Advisers": [
-    " how many civil law suits have been brought against his Department based either wholly or partially on grounds provided by the Human Rights Act 1998; howmany such suits were settled out of court before a court judgment was delivered; and how much such settlements have cost the public purse since 2010."
-  ],
-  "Marine Accidents Investigation Branch": [
-    " when he expects the Marine Accident Investigation Branch's report on the collision between the stern trawler MV Karen and a dived Royal Navy submarine in the Irish Sea on 15 April 2015 to be published. "
   ],
   "Aviation, Maritime, Environment Statistics": [
     " how many motorhome owners from continental Europe visited England in each of the last five years.",
@@ -3943,12 +3852,6 @@
     " what financial incentives his Department makes available to public transport providers to encourage the use electric vehicles in Northern Ireland.",
     " what steps his Department taking with electric vehicle manufacturers to ensure that a common charging connection is used for all electric vehicles."
   ],
-  "Digital Services Live Services": [
-    " which of his Department's online services are only available in the Welsh language on request.",
-    " whether his Department holds a central list of the IT and digital assets of its arm's-length bodies.",
-    " how many and what proportion of his Department's public phone-lines charge members of the public to call.",
-    " which public telephone lines for his Department's services are charged at higher rates; and how much was taken by each such telephone line in the last 12 months."
-  ],
   "Road Safety, Standards and Services": [
     " how much his Department's financial contribution is to Transport for London related to its decision to raise the cost of regulated rail fares in London by the rate of the Retail Price Index.",
     " pursuant to the Answer of 2 February 2016 to Question 24776, whether his Department has made or plans to make a financial contribution to Transport forLondon related to the decision to increase the cost of rail fares in London by the retail price index in 2016.",
@@ -3972,9 +3875,6 @@
     "What steps his Department is taking to ensure the resilience of the transport network through the Channel ports in the event that no deal is reached in negotiations on the UK leaving the EU. ",
     " how much has been spent on the planned lorry holding park in Stanford West in Kent."
   ],
-  "Aviation Security Policy": [
-    "To ask Her Majesty's Government what assessment they have made of the risk to UK citizens resulting from their decision to ban flights between the UK and Sharm el Sheikh."
-  ],
   "Transport Appraisal and Strategic Modelling": [
     " how many grants his Department awarded to projects for which the range of values in the Department's benefit-cost ratio assessment included negative values in each of the last six years; and if he will make a statement.",
     " whether his Department collects statistics for the purposes of monitoring on the types of tickets purchased by bus passengers.",
@@ -3996,20 +3896,6 @@
     " what assessment he has made of the transport, housing and economic benefits of Crossrail 2 for (a) Tottenham constituency and (b) the London Borough of Haringey.",
     " what recent assessment he has made of the potential contribution of Crossrail 2 to national economic growth. ",
     " what assessment he has made of the potential contribution of Crossrail 2 to national economic growth in each region of the UK."
-  ],
-  "Financial Control and Governance": [
-    " what estimate his Department has made of the number of its senior civil servants who will potentially fall under the provisions of the Fourth EU Money Laundering Directive, 2015/849; and what assessment he has made of which of his Department's agencies or other public bodies will potentially be classed as holding a prominent public function for the purposes of that directive.",
-    " whether he has held discussions with academics and charities in receipt of grants from his Department on the potential effect of the anti-lobbying clause on their work.",
-    " how his Department plans to monitor and assess the effect of the revised anti-lobbying clause beyond 1 May 2016.",
-    " what proportion of staff in his Department were (a) payroll and (b) non-payroll staff in each financial year from 2010-11 to 2015-16.",
-    " how many civil servants in his Department are paid through limited companies.",
-    " how much was spent on non-payroll staff in his Department in 2015-16.",
-    " how much his Department has spent on research conducted by (a) private bodies and (b) public bodies in each of the last five years.",
-    " what proportion of payments by his Department to small businesses are made on time and in accordance with the prompt payment code.",
-    " how many flights were undertaken by his Department's officials at a cost to the public purse during the last six months; what the cost of those flights was; and what the reasons for those flights were.",
-    " how much his Department has spent on (a) hotels, (b) hospitality, (c) food and drink and (d) transport in each of the last five years for which figures are available.",
-    " how many and what proportion of staff employed by his Department are employed on a contract which is (a) full-time permanent, (b) part-time permanent, (c) for less than two years' duration, (d) on an agency basis and (e) zero-hours.",
-    " with reference to his Department's publication DfTs ePCS spending over £500 for August 2017, for what reason the term description unobtainable its used for the item £1,495.84 at Mandarin Oriental Hotels on the 10th August 2017."
   ],
   "Airport Capacity Policy": [
     " what the estimated cost to his Department has been of evaluating the Airports Commission's Final Report since 1 July 2015.",
@@ -4674,157 +4560,6 @@
     " (a) who will carry out and (b) by what date, the independent review of funding and financing for Crossrail 2 announced in Autumn Budget 2017.",
     " what the (a) timetable and (b) remit is for the independent review of funding and financing for Crossrail 2 announced in the Autumn Budget 2017; and if he will make a statement."
   ],
-  "PO P&C": [
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities.   ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "To ask Her Majesty's Government to which body the ownership of the former railway line between Colne and the former Lancashire/West Riding of Yorkshire county boundary at County Brook transferred when BRB (Residuary) Ltd was abolished in 2013, and who now owns that line. ",
-    "To ask Her Majesty's Government, further to the Written Answer by Lord Ahmad of Wimbledon on 22 July 2015 (HL1470), whether the review of the failures that caused the cost of the recent A1 roadworks near Gamston Airport to escalate has been completed, and what conclusion and lessons have emerged from that review. ",
-    "To ask Her Majesty's Government, further to the Written Answer by Lord Ahmad of Wimbledon on 8 June 2015 (HL105), what trunk road improvement schemes there have been in the last five years, and for each of those, what was (1) the original target cost, and (2) the estimated completed cost. ",
-    "To ask Her Majesty's Government which authorities are responsible for safeguarding unaccompanied children on the concourse at St Pancras International, Ebbsfleet International and Ashford International stations. ",
-    "To ask Her Majesty's Government in their assessment of the need for new high speed rail services what weighting they are giving to improving passenger services between the north east and the south west of England. ",
-    " what the (a) policy and (b) other responsibilities are of each special adviser in his Department.",
-    " how many people are employed as special advisers by his Department; and how many people were employed as special advisers by his Department on 1 January 2016.",
-    " what assessment he has made of the potential effect on the uprating of pensions of British pensioners living in EU member states with which there was no previous bilateral agreement on the uprating of pensions on the UK leaving the EU.",
-    " what steps his Department took to evaluate the effectiveness of the 2009 car scrappage scheme.",
-    " pursuant to the Answer of 2 March 2016 to Question 28720, whether the number of special advisers employed in his Department has changed since the list referred to in that Answer was published.",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    " what steps his Department took when devising the new model of community pharmacy to take into account both (a) rural and (b) urban deprivation.",
-    " how much the Community Pharmacy Contractual Framework has accrued to the public purse through Category M savings since 2005.",
-    "To ask Her Majesty's Government what assessment they have made of the carbon savings that could result from increasing the use of biofuels in UK aviation. ",
-    "To ask Her Majesty's Government what funding is available for research and development into sustainable aviation fuels. ",
-    " how many times he has visited Scotland in an official capacity since the 2015 General Election; and what meetings were held on each such visit.",
-    " what steps his Department is taking to encourage the take up of creative subjects in secondary schools.",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    " what plans he has to re-establish the Economic Affairs (Airports) sub-Committee.",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "To ask Her Majesty's Government, following the vote to leave the EU, what action they are taking to ensure that for so long as EU information continues to be provided to schools and other educational establishments it is properly balanced in accordance with statutory requirements. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    " for what reasons he did not exchange his details with the cyclist whom he was involved in a road incident with on 12 October 2016.",
-    " whether the incident between him and a cyclist on 12 October 2016 was reported to his Department's Permanent Secretary.",
-    " whether he, his driver or any official reported to the police the incident on 12 October 2016 in which a cyclist came off his bike.",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities.  ",
-    "If he will make a statement on his departmental responsibilities.  ",
-    "If he will make a statement on his departmental responsibilities.  ",
-    "If he will make a statement on his departmental responsibilities.  ",
-    "If he will make a statement on his departmental responsibilities.  ",
-    "If he will make a statement on his departmental responsibilities.  ",
-    "If he will make a statement on his departmental responsibilities.  ",
-    "If he will make a statement on his departmental responsibilities.  ",
-    "If he will make a statement on his departmental responsibilities.  ",
-    "If he will make a statement on his departmental responsibilities.  ",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities.",
-    "If he will make a statement on his departmental responsibilities.",
-    " what proportion of funding to protect domestic dwellings and business from surface water flooding has been awarded to Norfolk.",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    "If he will make a statement on his departmental responsibilities. ",
-    " what the net change has been in the number of in-patient perinatal mental health beds since 2010.",
-    " how many people born on 3 May 2000 or earlier are in possession of a military identification card registered in (a) Woking, (b) Gosport, (c) Bromley or(d) Watford local authority who are aged (i) under 24, (ii) 25 to 49, (iii) 50 to 64 and (iv) 65 or older.",
-    " what meetings Ministers of his Department have had with representatives of the Legatum Institute in the last 12 months.",
-    " what representations any Minister of his Department has received from Bell Pottinger on behalf of (a) Atos IT Services UK Limited, (b) Centrica PLC, (c) Ernst & Young, (d) Heads of the Valleys Development Company Limited and (e) Monarch Holdings Limited",
-    " how many and what proportion of his Department's Answers to Written Parliamentary Questions in the 2017-18 Session to date have referred to the information requested not being (a) collected or (b) collated centrally.",
-    " which overseas trips Ministers of his Department have made since July 2016; and what were the costs of each such trip."
-  ],
   "Aviation Strategy and Consumers": [
     " what discussions his Department has had with UK airlines on passing the reduction in fuel costs on to passengers.",
     " what progress has been made on the introduction of mandatory defibrillators on aircraft.",
@@ -4982,17 +4717,6 @@
     "To ask Her Majesty's Government what assessment they have made of the Administrator's Report on the collapse of Monarch Airlines Group, published on 24 November, and the disclosure that substantial sums will be paid toPetrol Jersey Ltd and Windsor Jersey Ltd, both affiliates of the owners of Monarch, Greybull Group; whether they have now made progress in recovering public monies expended by Her Majetsy's Government in repatriating to the UK passengers of Monarch airlines; and if so, what.",
     "To ask Her Majesty's Government whether they intend to investigate the interest rates set on loans from shareholders to Monarch Airlines Group and determine whether those rates were reasonable in terms of protecting the rights of creditors, employees, pensioners and other stakeholders."
   ],
-  "Rail Cross London Network Market": [
-    "To ask Her Majesty's Government whether Network Rail have any plans to improve the accessibility for disabled people of Raynes Park station in the London Borough of Merton; and if so, what improvements will be made, and what are the expected completion dates for those works."
-  ],
-  "Rail Land Transport Security": [
-    " how many British Transport Police officers there have been in each territorial division in each of the last six years.",
-    " how many reports have been made to the British Transport Police using the 61016 text service in each territorial division in each quarter since its introduction.",
-    " how much has been spent from the public purse on promoting and publicising the British Transport Police's 61016 text service in each quarter since its introduction.",
-    " whether he plans to change the eligibility criteria for people seeking to rent large cars, vans and HGVs.",
-    " whether his Department plans to take steps to require criminal records checks to be made of drivers prior to hiring a van or car. ",
-    "To ask Her Majesty's Government what categories of crime have (1) increased, and (2) decreased, on (a) railways, and (b) buses, in each year since 2014."
-  ],
   "Strategy Unit": [
     "To ask Her Majesty's Government, further to the Written Answer by Lord Ahmad of Wimbledon on 1 February (HL5287), whether they intend to ask the National Infrastructure Commission to undertake work on railway links between London and South West England; and if not, why not. ",
     "To ask Her Majesty's Government what plans they have to grow national road, rail and air infrastructure, and to invest in public sector capacity, to match the forecast growth in population to 73 million by 2035. ",
@@ -5041,9 +4765,6 @@
     " whether his Department has made an assessment of the level of availability of mobile phone coverage on the Coventry to London train line. ",
     " what steps he is taking to improve the quality and reliability of WiFi on rail services to and from Portsmouth."
   ],
-  "Communications Media Team": [
-    " how many public engagements for which a media calling notice was issued were attended by a departmental Minister in each of the last 12 months."
-  ],
   "Digital Services Information & Security": [
     " on how many occasions his Department has been notified by external consultants or other third parties of breaches by employees or subcontractors of those consultants of document retention or security policies relating to confidential or secure materials in each of the last two years.",
     " pursuant to the Answer of 28 January 2016 to Question 23487, which external consultants or other third parties were responsible for the eight breaches there identified.",
@@ -5060,18 +4781,6 @@
     " how many staff in his Department respond to Freedom of Information requests.",
     " whether the principle set out in paragraph 5.3.6 of the Government's Cyber Security Strategy that everyone who works in government has a sound awareness of cyber risk applies to members of staff employed by contractors doing work procured by his Department",
     " pursuant to the Answer of 12 September 2017 to Question 8043, how many and what proportion of firms have a Cyber Essentials qualification; and whether that qualification is a requirement for delivering work procured by his Department."
-  ],
-  "Rail Funding and Fares": [
-    " if he will take steps to ensure that London is accessible by rail to people who cannot afford peak-time prices and are on lower incomes, when they are travelling to London for meetings during working hours.",
-    " if his Department will hold discussions with train operators on making the process of purchasing railway tickets from ticket machines simpler in respect of (a) indicating peak and off-peak times, (b) where peak and off-peak times differs between train operators and (c) in other ways.",
-    "What progress his Department has made on its plans to reform ticketing arrangements for rail passengers. ",
-    " what steps he has taken to ensure that rail commuters have greater access to the cheapest available tickets (a) on the day they travel and (b) when booking in advance; and if he will make a statement.",
-    " what steps his Department has taken to monitor compliance with the Office of Rail and Road's guidance, published in March 2015, in respect of advertising the cheapest possible tickets from ticket offices on or near self-service machines.",
-    " what steps he is taking to ensure train companies have simple and easily comprehensible ticketing policies and offer the cheapest ticket for any requested journey.",
-    " what plans he has to make it easier for passengers to access the cheapest tickets available for any requested journey.",
-    " with reference to the minutes of the meeting of the Rail Delivery Group of 22 December 2015, whether the letter outlining the Government's expectationson ticketing referred to in that document has been sent.",
-    " for what reasons the exemption for the railway sector from the provisions of the Consumer Rights Act 2015 has been extended until October 2016.",
-    " what the rationale is for the extended exemption of the travel sector from the provisions of the Consumer Rights Act 2015 under the Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) (Amendment) Order 2016."
   ],
   "HR Operations": [
     " how much his Department spent from the public purse on industrial tribunals in the last 12 months.",
@@ -5122,19 +4831,6 @@
     " how many times his Department's Senior Information Risk Officer role has been vacant for a week or longer since 2012.",
     " how much his Department has spent on (a) taxis, (b) first class train tickets and (c) business class air travel in each of the last four years.",
     " with reference to transparency data, DfT's gender pay gap report 2017, published 18 December 2018, if he will break down the pay gap data for median, mean and bonus pay by (a) grade and (b) profession."
-  ],
-  "Energy, Technology and International": [
-    " if he will assess the potential merits of introducing more incentives to encourage motorists to use cleaner fuels and public transport.",
-    " what assessment his Department has made of the potential merits of strategies other than those involving electric vehicles to decarbonise petrol vehicles before 2040.",
-    " with the exception of electric vehicles, what policies and options his Department has assessed as feasible routes to decarbonise petrol vehicles before 2040."
-  ],
-  "Digital and Open Data": [
-    " pursuant to the Answer of 21 April 2016 to Question 34465, if his Department will take steps to allow web-users to include honours when completing Government online forms.",
-    " what the cost was of inserting the link to information on the EU referendum on the DVLA website.",
-    " whether the link on the DVLA website to information on the EU referendum will be removed when the purdah period comes into force.",
-    " how much his Department spent on (a) iPads and tablets and (b) paper in each of the last five years for which figures are available.",
-    " what the five most visited websites were by staff of his Department in the last year for which figures are available.",
-    " what steps his Department is taking to reduce the amount of manual processing on paper that it carries out and to make such processing digital."
   ],
   "Government Car Service": [
     " what the cost was of non-routine upholstery cleaning for the Government Car Service fleet in each month since May 2015.",
@@ -5254,43 +4950,6 @@
     " what steps his Department is taking to attract new open access applications where there is capacity to deliver more rail services, passenger choice and competition.",
     " how many British Transport Police officers have (a) applied for and (b) been granted an individual firearms licence since 2011."
   ],
-  "Group Finance": [
-    " what his Department's expenditure was on external room or venue hire in each year from 2010-11 to 2015-16; and what the proportion of such expenditure was on such hire in London in each of those years.",
-    " how much his Department has spent on agency workers in each of the last five years.",
-    " what estimate he has made of the value of (a) staffing expenditure, (b) other revenue costs and (c) capital expenditure by his Department and its arms-length bodies in whole or in part in Yorkshire and the Humber in 2016-17."
-  ],
-  "Economics of Regional and Local Transport Division": [
-    "To ask Her Majesty's Government, further to the Written Answer by Baroness Williams of Trafford on 17 December 2015 (HL4437), whether any independent research has been undertaken recently into the number of town-centre shoppers who use public transport and the relative value of shopping trips made by public transport users and shoppers who travel by other means.[",
-    " what assessment he has made of whether the bus service operators grant is used by bus operators to keep fares down. ",
-    " pursuant to the Answer of 3 March 2016 to Question 28183, using what evidence base his departmental economists (a) normally assume operators pass subsidy received on to passengers 50 per cent through lower fares and 50 per cent through increased service levels and (b) estimate that Bus Service Operators' Grant has the effect of keeping fares 3 per cent lower in England outside London.",
-    " pursuant to the Answer of 16 March 2016 to Question 30285, whether the working assumption that benefits from the Bus Service Operators Grant are passed on to passengers 50 per cent through lower fares and 50 per cent through increased service levels was informed by discussions with bus operators.",
-    " pursuant to the Answer of 13 June 2016 to Question 39847, what effect he expects the provisions of the Bus Services Bill to have on his Department's estimates of future trips by mode.",
-    " pursuant to the Answer of 9 September 2016 to Question 44451, if the Government will carry out a detailed assessment of trends in the level of the fuel efficiency of buses."
-  ],
-  "Rail In-Franchise Change": [
-    " whether it is his policy to expand London's transport zones to include (a) Spelthorne constituency and (b) other new areas inside the M25 orbital that do not use the oyster system.",
-    " with reference to the Office of Rail and Road super-complaint response report, published in March 2016, paragraph 207, which three train operating companies scored 0 per cent for their sampled mystery shops.",
-    " with reference to the contribution of the Parliamentary Under-Secretary of State for Transport of 11 May 2016, Official Report, HC Deb, column 692, whenofficials began working on the proposals to implement the 15-minute threshold for rail journey compensation; from what date he expects that customers will be able claim compensation under that threshold; and if he will make a statement.",
-    " pursuant to the Answer of 13 June 2016 to Question 40383, whether the Government has the power under current delay repay infrastructure to allow people to claim compensation for 15-minute delays before it makes other planned improvements to compensation arrangements; and if he will make a statement.",
-    " pursuant to the Answer of 20 June 2016 to Question 40383, when he plans to make an announcement on when passengers will have access to compensation whentrains are over 15 minutes late; whether the application of the Consumer Rights Act 2015 (CRA) from 1 October 2016 will affect that access; after how many minutes of delay the consumer's right to claim a full refund under the CRA will take effect; and ifhe will make a statement.",
-    " pursuant to the Answer of 10 October 2016 to Question 46147, what steps he has taken to inform rail passengers of their right from 1 October 2016 to challenge compensation amounts awarded for delays and cancellations where the train operator is at fault; whether his Department has produced any advice to assist passengers on how and when to make such a challenge; what discussions he has had with train operators about publicising the new rights; when the 15 minute threshold for compensation will be introduced; and if he will make a statement."
-  ],
-  "Rail South, East and London Market": [
-    " what his Department's policy is on maintaining an intercity standard train service between (a) Norwich and London, (b) Ipswich and London, (c) Colchester and London and (d) Chelmsford and London."
-  ],
-  "Environment and International Transport Analysis": [
-    " if he will estimate the contribution to the UK economy of airline passengers who have transferred through Heathrow Airport in each of the last threeyears.",
-    " if he will estimate the number of long-haul business passengers that will terminate at Heathrow Airport in 2050 (a) with and (b) without a third runway at that airport; and what proportion of those passengers will be (i) UK residents and (ii) foreign visitors.",
-    " what the runway capacity was for each UK airport in the last 10 years.",
-    " how many passengers travelled by (a) road and (b) train to (i) Manchester and (ii) Liverpool Airport in the last 10 years.",
-    " pursuant to the Answer of 31 October 2016 to Question 49985, how many passengers travelled by (a) road and (b) train to (i) Manchester and (ii) Liverpool Airport in each of the last 10 years.",
-    " what the runway capacity was for each UK airport in each of the last 10 years.",
-    " with reference to the PwC report prepared for the Airports Commission entitled 2. Economy: Wider impact assessment, published in November 2014, whether he has had discussions with PwC on the modelling methodology used in that report.",
-    " what research his Department has recently commissioned on likely trends in the international aviation market."
-  ],
-  "Rail Investment Strategy": [
-    "What discussions he has had with Network Rail on compensation for residents affected by the upgrade of the Great Northern Great Eastern line. "
-  ],
   "Aviation Security Operations": [
     " what discussions he has had with the (a) Egyptian Ambassador and (b) Secretary of State for Foreign and Commonwealth Affairs on resuming flights to Sharm El Sheikh.",
     "What discussions he has had with the Secretary of State for Foreign and Commonwealth Affairs on resuming flights to Sharm el Sheikh. [R]",
@@ -5339,20 +4998,6 @@
     "To ask Her Majesty's Government whether they have reviewed the ban on direct flights between the UK and Sharm el Sheikh, in the light of such flights being available from other European states, including Italy, Germany, and Belgium.",
     " what discussions he has had with his European counterparts on the resumption of flights to Sharm el-Sheikh in Egypt; and if he will make a statement.",
     "To ask Her Majesty's Government, further to the Written Answer by Baroness Sugg on 7 November (HL2559), when they last carried out an assessment of Sharm el Sheikh airport; and whether that assessment involved UK officials visiting that airport."
-  ],
-  "Rail Transforming Ticketing, Payments and Mobility": [
-    " pursuant to the Answer of 5 January 2016 to Question 20639, whether franchise agreements for future franchises within the South East Flexible Ticketing geographical area will include an obligation for operators to subscribe to that programme.",
-    " when he expects the South East flexible ticketing programme to commence.",
-    "To ask HMG what is the expected date for the full implementation of the South East Flexible Ticketing Scheme.",
-    " if he will place in the Library a copy of his Department's scoping study for evaluating the implementation of the South East Flexible Ticketing Programme.",
-    " how many railway stations in Great Britain were equipped with ITSO-compliant smartcard readers on the most recent date for which figures are available;and how many ITSO-compliant smartcards had been issued by (a) South Eastern, (b) Govia Thameslink Railway, (c) c2c, (d) Greater Anglia, (e) London Midland, (f) East Midland Trains and (g) Great Western Railway on the most recent date for which figures are available.",
-    " pursuant to the Answer of 2 February 2016 to Question 24477, which railway stations in which regions are fitted with ITSO-compliant smartcard readers.",
-    " with reference to the oral contribution of the Parliamentary Under-Secretary of State for Transport of 10 December 2015, Official Report, column 1132, on smart ticketing, whether the £80 million funding referred to has been allocated to the South East Flexible Ticketing programme; and what proportion of that funding his Department has so far spent on which elements of that programme.",
-    " how many members of staff are currently working in the South East Flexible Ticketing programme's central delivery team from (a) his Department and (b) the Association of Train Operating Companies.",
-    " when his Department's South East Flexible Ticketing programme's Strategic Business Case was completed; and if he will place a copy of that document in the Library.",
-    " when his Department's South East Flexible Ticketing Programme Definition Document was last updated; and if he will place a copy of the latest version of that document in the Library.",
-    " pursuant to the Answer of 26 February 2016 to Question 28078, what plans his Department has for spending the remaining £40.89 million that was allocatedto the South East Flexible Ticketing programme.",
-    " pursuant to the Answer of 7 March 2016 to Question 29373, what his Department's outstanding contractual obligations are under the South East Flexible Ticketing programme."
   ],
   "International Aviation, Safety and Environment": [
     " what comparative assessment his Department has made of the potential damage to housing and infrastructure and loss of life that would result from anaircraft crashing on approach or arrival at Heathrow and Gatwick Airports.",
@@ -5783,34 +5428,6 @@
     " how many children were (a) killed and (b) seriously injured in (i) 2014, (ii) 2015 and (iii) 2016 in road accidents in which they were not restrained by achild car seat.",
     "To ask Her Majesty's Government, further to the Written Answer by Baroness Sugg on 6 December (HL3547), which are the police forces that collect and publish statistics on the number of accidents involving moped riders with provisional licences; and why all police forces are not required to monitor and report on that aspect of road safety. "
   ],
-  "International Cooperation": [
-    " what contingency arrangements his Department has made for the eventuality of a majority leave vote in the upcoming EU referendum.",
-    "To ask Her Majesty's Government how much money the EU provided, in the most recent year for which figures are available, for research, capital expenditure and revenue support for (1) the bus and coach industry, (2) railway passenger and freight-services, (3) the air industry, including runways, aircraft or equipment, (4) the shipping and ports industry, and (5) road schemes and the development of vehicle technology. ",
-    " what his Department's spending was in Overseas Development Aid on (a) 2013-14, (b) 2014-15 and (c) the first 10 months of 2015-16; and what the recipient countries of that aid were. ",
-    " with reference to the Prime Minister's Oral Statement of 22 February 2016, Official Report, column 35, on the European Council, whether his Department is undertaking planning in the eventuality of a majority leave vote in the EU referendum.",
-    " whether the Government has made representations to the Chinese government to secure Chinese investment in transport infrastructure in Britain.",
-    " whether he has made an assessment of the potential effect on infrastructure projects currently in receipt of TEN-T funding of the UK leaving the EU.",
-    " whether his Department plans to undertake a Strategic Environmental Assessment on projects which have received funding under the Connecting Europe Facility initiative.",
-    " what total amount has been received by (a) his Department and (b) HS2 Ltd under the Connecting Europe Facility 2015 Multi-Annual Work Programme; and what estimate he has made of the amount that will be received under that programme by each body in the next three years.",
-    " how much funding his Department received from the European Social Fund (a) between 2007 and 2014 and (b) from 2014 to the last month for which data is available.",
-    " which projects in the UK will receive funding from the Connecting Europe Facility transport 2015 Multi-Annual Work Programme.",
-    " what estimate he has made of the total value of loan and grant funding from EU institutions for transport projects in the UK in the last 10 years.",
-    " how much his Department and its agencies and non-departmental public bodies have spent on infraction proceedings in each of the last 10 years.",
-    " what steps he is taking to advise people in the UK of their continuing rights to travel freely within the EU.",
-    " what assessment he has made of which policy areas within his Department's remit will be affected by the outcome of the EU referendum.",
-    " what recent assessment he has made of the potential effect of the UK leaving the EU on (a) signed European Investment Bank (EIB) loans for transport projects in the UK and (b) EIB loan applications that are under appraisal for transport projects in the UK.",
-    "To ask Her Majesty's Government whether they plan to ensure that EU law relating to traffic will continue to be enforced when the UK leaves the EU. ",
-    " what assessment he has made of the potential effect of the UK leaving the EU on the protection of passenger rights in the UK.",
-    " whether his Department plans to fund transport infrastructure projects that are completely or partly funded by EU programmes after the UK leaves the EU.",
-    " which agreed EU directives have not yet been transposed directly into UK law; and if he will make a statement.",
-    " whether he has consulted the Office of Rail and Road on the implications for its remit of the draft Transatlantic Trade and Investment Partnership.",
-    "To ask Her Majesty's Government how Article 51 of Regulation (EU) No 651/2014 concerning social aid for transport for residents of remote regions can be introduced in England; for what purposes; and what aid is already in place. ",
-    " how many new EU directives relating to his Department's responsibilities are in negotiation in the EU.",
-    " how many EU directives relating to his Department are being transposed into UK law.",
-    " when his Department plans to stop transposing new EU directives into UK law.",
-    "What steps his Department is taking to encourage transport links between the north-east of the UK and Asia. ",
-    "To ask Her Majesty's Government what assessment they have made of the impact of the UK's exit from the EU on the availability of EU funds for rail infrastructure projects in the UK; and whether this will affect any specific rail projects."
-  ],
   "Rail Network Services-West": [
     " whether the GRIP 2 studies required for the Peninsula Rail Task Force's survey will be available in order for the survey to be completed in June 2016.",
     "To ask Her Majesty's Government, further to the remarks by Lord Ahmad of Wimbledon on 28 January (HL Deb, col 1405), what is the estimated cost of the next two years' work by Network Rail that has now been cancelled on (1) the stabilisation of the cliff between Parsons and Teignmouth, and (2) breakwaters, groynes and revetments in the Dawlish area; and what are the new estimated completion dates for those works. ",
@@ -6097,12 +5714,6 @@
     " pursuant to the Answer of 6 December 2017 to Question 117856, on shipping: training, what the international visits are which have been undertaken by Maritime and Coastguard Agency officials since May 2010 which included (a) the provision of advice on or (b) official discussions of seafarer training standards.",
     " if he will list the official meetings with United Nations agencies attended by Maritime and Coastguard Agency officials since May 2010 which included discussion of seafarer (a) training, (b) safety and (c) welfare standards; and when the next such meetings are scheduled.",
     " pursuant to the Answer of 12 December 2017 to Question 117855, on shipping: qualifications, what assessment he has made of the potential implicationsfor his policies of the statement made by the Directorate-General for Mobility and Transport at the European Commission in respect of seafarers' training on 11 December 2017; and if he will make a statement."
-  ],
-  "Motoring Agency Sponsorship": [
-    " pursuant to the Answer of 29 June 2016 to Question 40558, from which sources other than vehicle excise renewals his Department receives credit card fees from people paying for services offered by his Department and its agencies; and what the total amount so received was in (a) 2013-14, (b) 2014-15 and (c) 2015-16.",
-    " what discussions the Government has had on the key performance indicators for the objectives set out in the newly published business strategies for the (a) Driver and Vehicle Standards Agency and (b) DVLA with those agencies.",
-    " what steps his Department is taking to ensure that UK citizens travelling in the EU will be able to benefit from the Green Card system as the UK leaves the EU.",
-    " if his Department will undertake to assess the effectiveness of directives on operator licensing after the UK leaves the EU."
   ],
   "Traffic and Technology": [
     " what guidance his Department issues to the private parking industry on the appropriate levels of penalties for motorists.",
@@ -6820,6 +6431,32 @@
     " pursuant to the Answer of 21 December 2017 to Question 120015 on High Speed 2 railway line, if he will name (a) all 12 applications made to the HS2 Community and Environment Fund, (b) the six successful applicants and (c) identify which of those applicants have accepted the terms and conditions."
   ],
   "EU Exit Team": [
+  " what contingency arrangements his Department has made for the eventuality of a majority leave vote in the upcoming EU referendum.",
+  "To ask Her Majesty's Government how much money the EU provided, in the most recent year for which figures are available, for research, capital expenditure and revenue support for (1) the bus and coach industry, (2) railway passenger and freight-services, (3) the air industry, including runways, aircraft or equipment, (4) the shipping and ports industry, and (5) road schemes and the development of vehicle technology. ",
+  " what his Department's spending was in Overseas Development Aid on (a) 2013-14, (b) 2014-15 and (c) the first 10 months of 2015-16; and what the recipient countries of that aid were. ",
+  " with reference to the Prime Minister's Oral Statement of 22 February 2016, Official Report, column 35, on the European Council, whether his Department is undertaking planning in the eventuality of a majority leave vote in the EU referendum.",
+  " whether the Government has made representations to the Chinese government to secure Chinese investment in transport infrastructure in Britain.",
+  " whether he has made an assessment of the potential effect on infrastructure projects currently in receipt of TEN-T funding of the UK leaving the EU.",
+  " whether his Department plans to undertake a Strategic Environmental Assessment on projects which have received funding under the Connecting Europe Facility initiative.",
+  " what total amount has been received by (a) his Department and (b) HS2 Ltd under the Connecting Europe Facility 2015 Multi-Annual Work Programme; and what estimate he has made of the amount that will be received under that programme by each body in the next three years.",
+  " how much funding his Department received from the European Social Fund (a) between 2007 and 2014 and (b) from 2014 to the last month for which data is available.",
+  " which projects in the UK will receive funding from the Connecting Europe Facility transport 2015 Multi-Annual Work Programme.",
+  " what estimate he has made of the total value of loan and grant funding from EU institutions for transport projects in the UK in the last 10 years.",
+  " how much his Department and its agencies and non-departmental public bodies have spent on infraction proceedings in each of the last 10 years.",
+  " what steps he is taking to advise people in the UK of their continuing rights to travel freely within the EU.",
+  " what assessment he has made of which policy areas within his Department's remit will be affected by the outcome of the EU referendum.",
+  " what recent assessment he has made of the potential effect of the UK leaving the EU on (a) signed European Investment Bank (EIB) loans for transport projects in the UK and (b) EIB loan applications that are under appraisal for transport projects in the UK.",
+  "To ask Her Majesty's Government whether they plan to ensure that EU law relating to traffic will continue to be enforced when the UK leaves the EU. ",
+  " what assessment he has made of the potential effect of the UK leaving the EU on the protection of passenger rights in the UK.",
+  " whether his Department plans to fund transport infrastructure projects that are completely or partly funded by EU programmes after the UK leaves the EU.",
+  " which agreed EU directives have not yet been transposed directly into UK law; and if he will make a statement.",
+  " whether he has consulted the Office of Rail and Road on the implications for its remit of the draft Transatlantic Trade and Investment Partnership.",
+  "To ask Her Majesty's Government how Article 51 of Regulation (EU) No 651/2014 concerning social aid for transport for residents of remote regions can be introduced in England; for what purposes; and what aid is already in place. ",
+  " how many new EU directives relating to his Department's responsibilities are in negotiation in the EU.",
+  " how many EU directives relating to his Department are being transposed into UK law.",
+  " when his Department plans to stop transposing new EU directives into UK law.",
+  "What steps his Department is taking to encourage transport links between the north-east of the UK and Asia. ",
+  "To ask Her Majesty's Government what assessment they have made of the impact of the UK's exit from the EU on the availability of EU funds for rail infrastructure projects in the UK; and whether this will affect any specific rail projects.",
     " whether the Government plans to continue to participate in the European Railways Agency after the UK leaves the EU.",
     " whether the Government plans to continue to participate in the European Maritime Safety Agency after the UK leaves the EU.",
     "What assessment he has made of the potential effect of the UK leaving the EU on the protection of passenger rights in the UK.",
@@ -6868,9 +6505,6 @@
     " what estimate he has made of the (a) amount of time and (b) resources that his Department allocated to the production of impact assessments on the UK leaving the EU; and on what date work on those impact assessments started.",
     " which EU (a) Directives, (b) Regulations and (c) other legislation affecting his Department he is planning to propose the (i) revocation and (ii) amendment of after the UK leaves the EU.",
     "To ask Her Majesty's Government how many International Driving Permits were in issued in (1) 2015, and (2) 2016."
-  ],
-  "Roads Economics": [
-    "To ask Her Majesty's Government, when assessing road investment schemes using WebTAG, what proportion of the economic benefits were attributed to savings of two minutes or less. "
   ],
   "Driver and Vehicle Licensing Agency": [
     " how many vehicles were identified and impounded solely on the basis of non-payment of vehicle excise duty as part of the pilot enforcement action using automatic number plate recognition of illegal foreign-registered vehicles in the UK.",
@@ -7022,11 +6656,5 @@
     "To ask Her Majesty's Government how many trade licence plates have been approved by the DVLA; and how many are currently in use.",
     "To ask Her Majesty's Government how many Statutory Off Road Notifications were received by the DVLA in (1) 2015, (2) 2016, and (3) 2017.",
     " whether there is a time frame in which the DVLA must (a) respond and (b) take action after the reporting of untaxed or abandoned vehicles on public roads."
-  ],
-  "Digital Services Project Delivery": [
-    " how many data incidents his Department (a) recorded and (b) reported to the Information Commissioner's Office in (i) 2015-16 and (ii) 2016-17."
-  ],
-  "Rail Projects - Legal": [
-    " when he expects to reach a decision on the Leeds New Generation Transport Trolley Bus scheme."
   ]
 }
