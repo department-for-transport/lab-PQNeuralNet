@@ -51,8 +51,8 @@ net = tflearn.fully_connected(net,8)
 net = tflearn.fully_connected(net, len(categories),activation='softmax')
 net = tflearn.regression(net)
 
-model = tflearn.DNN(net, tensorboard_dir = 'tflearn_logs')
-model.load('model.tflearn')
+model = tflearn.DNN(net, tensorboard_dir = '../tflearn_logs')
+model.load('model/model.tflearn')
 
 def get_tf_record(sentence):
     sentence_words = nltk.word_tokenize(sentence)

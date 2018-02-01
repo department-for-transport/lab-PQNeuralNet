@@ -108,11 +108,11 @@ net = tflearn.regression(net)
 #RUN MODEL#
 
 #define model and set up tensorboard
-model = tflearn.DNN(net, tensorboard_dir = 'tflearn_logs')
+model = tflearn.DNN(net, tensorboard_dir = '../tflearn_logs')
 #start training
 model.fit(train_x, train_y, n_epoch = 1000, batch_size=10, show_metric = True)
 #save model once training is complete
-model.save('model.tflearn')
+model.save('model/model.tflearn')
 
 #TESTING#
 
