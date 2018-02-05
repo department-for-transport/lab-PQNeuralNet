@@ -8,6 +8,7 @@ import json
 import string
 import unicodedata
 import sys
+from nltk.corpus import stopwords
 
 #SORT OUT DATA#
 
@@ -35,6 +36,9 @@ with open('json2.txt', 'r') as json_data:
 categories = sorted(list(data.keys()))
 print(categories)
 
+#set of stop words:
+stopWords = set(stopwords.words('english'))
+
 #list of words that holds all unique stemmed words
 words = []
 
@@ -45,10 +49,18 @@ for each_category in data.keys():
     for each_sentence in data[each_category]:
         #remove punctuation
         each_sentence = remove_punctuation(each_sentence)
+        each_sentence = each_sentence.replace('To ask the Secetary of State for Transport ', '')
+        each_sentence = each_sentence.replace('To ask To ask Her Majesty\'s Government ', '')
         #extract words from sentence and add to list 'words'
         w = nltk.word_tokenize(each_sentence)
         words.extend(w)
-        #add list of words from stenence and category as a tuple to docs
+
+        #for word in tokenized_words:
+            #if word not in stopWords:
+                #words.append(word)
+                #w.append(word)
+
+        #add list of words from sentence and category as a tuple to docs
         docs.append((w, each_category))
 
 #stem and lower each word
@@ -110,7 +122,7 @@ net = tflearn.regression(net)
 #define model and set up tensorboard
 model = tflearn.DNN(net, tensorboard_dir = '../tflearn_logs')
 #start training
-model.fit(train_x, train_y, n_epoch = 1000, batch_size=10, show_metric = True)
+model.fit(train_x, train_y, n_epoch = 100, batch_size=10, show_metric = True)
 #save model once training is complete
 model.save('model/model.tflearn')
 
@@ -119,16 +131,24 @@ model.save('model/model.tflearn')
 #testing questions
 sent1 = "How much money is spent on cycling"
 sent2 = "How many accidents where there last year"
-sent3 = "cycle city grant is how much?"
-sent4 = "drug driving is illegal"
-sent5 = "penalty points for mobile phone"
-sent6 = "active travel cycling and walking"
+sent3 = "operation stack"
+sent4 = "vnuk european court of justice"
+sent5 = "exiting the european union"
+sent6 = "rail fares southern rail"
+
 
 #convert testing questions into bag of words numpy array
 def get_tf_record(sentence):
     global words
     sentence_words = nltk.word_tokenize(sentence)
+    #sentence_words=[]
+    #for word in tokenized_words:
+        #if word not in stopWords:
+            #sentence_words.append(word)
+
     sentence_words = [stemmer.stem(word.lower()) for word in sentence_words]
+
+
     BoW = [0]*len(words)
     for s in sentence_words:
         for i, w in enumerate(words):
