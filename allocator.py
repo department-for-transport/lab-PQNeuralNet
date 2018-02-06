@@ -61,7 +61,7 @@ def rebuild_neural_net(word_list, category_list, model_location):
     model.load('{}'.format(model_location))
     return model
 
-def get_tf_record(sentence, word_list):
+def create_bagofwords(sentence, word_list):
     """Takes input string and list of all words and returns as a BoW NP array ready for insertion into the mode"""
     sentence_words = nltk.word_tokenize(sentence)
     sentence_words = [stemmer.stem(word.lower()) for word in sentence_words]
@@ -88,4 +88,4 @@ if __name__ == '__main__':
 
     while True:
         sent1 = input("Enter question: ")
-        print("{}: {}".format(sent1, categories[np.argmax(net.predict([get_tf_record(sent1, wordlist)]))]))
+        print("{}: {}".format(sent1, categories[np.argmax(net.predict([create_bagofwords(sent1, wordlist)]))]))
