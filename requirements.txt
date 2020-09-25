@@ -5,7 +5,7 @@ Markdown==2.6.11
 numpy==1.14.0
 protobuf==3.5.1
 six==1.11.0
-tensorflow==1.12.1 
+tensorflow==1.15.4 
 tensorflow-tensorboard==0.4.0rc3
 Werkzeug==0.14.1
 nltk
