@@ -7,7 +7,7 @@ protobuf==3.5.1
 six==1.11.0
 tensorflow==1.12.1 
 tensorflow-tensorboard==0.4.0rc3
-Werkzeug==0.14.1
+Werkzeug==3.0.1
 nltk
 tflearn
 h5py
